@@ -1,4 +1,5 @@
 # Power BI Store Data Visualization
+This Power BI report presents a comprehensive analysis of store data from branches located worldwide. The report includes visualizations and insights derived from three primary data tables: Orders, People, and Returns. 
 
 **Author:** Aamir Salman
 ## Video Presentation
