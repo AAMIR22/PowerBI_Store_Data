@@ -39,7 +39,7 @@ This Power BI report presents a comprehensive analysis of store data from branch
 A video presentation is available for this Power BI report. You can watch the video using the following link: [Video Presentation](https://drive.google.com/file/d/1DoNGaMfC2dXe1jGOvPTZOmFPNe7a38ft/view?usp=sharing).
 
 ## Subtitles
-The subtitles for the video presentation can be accessed via this link: [Subtitle Link]([your-subtitle-link-here](https://drive.google.com/file/d/14M9-aqZ8gwbQB9jp4pg9TXTZScxNdeZp/view?usp=drive_link)).
+The subtitles for the video presentation can be accessed via this link: [Subtitle Link](https://drive.google.com/file/d/14M9-aqZ8gwbQB9jp4pg9TXTZScxNdeZp/view?usp=drive_link).
 
 ## How to Use
 1. **Open the Power BI file:** Load the Power BI report file in the Power BI Desktop application.
