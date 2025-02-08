@@ -1,3 +1,6 @@
+# Description: This script processes sales data and generates a summary report.
+
+
 # Power BI Store Data Visualization
 
 **Author:** Aamir Salman
